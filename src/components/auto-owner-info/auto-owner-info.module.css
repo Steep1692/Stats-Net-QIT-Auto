@@ -1,0 +1,23 @@
+.table td {
+  font-size: 16px;
+  line-height: 18px;
+}
+
+.table td:first-of-type {
+  width: 45%;
+  color: #898989;
+}
+
+@media all and (max-width: 512px) {
+  .table td {
+    display: block;
+  }
+
+  .table td:first-of-type {
+    margin-top: 6px;
+  }
+
+  .table tr:first-of-type td:first-of-type {
+    margin-top: 0;
+  }
+}

@@ -1,0 +1,16 @@
+.button {
+  padding: 8px 18px;
+  border: none;
+  
+  font-size: 14px;
+  line-height: 16px;
+
+  background-color: #c4c4c4;
+  color: #000;
+}
+
+@media all and (max-width: 800px) {
+  .button {
+    width: 100%;
+  }
+}

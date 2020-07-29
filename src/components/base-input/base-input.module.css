@@ -1,0 +1,16 @@
+.input {
+  padding: 8px 13px;
+  border: none;
+  
+  font-size: 14px;
+  line-height: 16px;
+
+  background-color: #c4c4c4;
+  color: #000;
+}
+
+@media all and (max-width: 800px) {
+  .input {
+    width: 100%;
+  }
+}

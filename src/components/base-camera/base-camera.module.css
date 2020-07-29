@@ -1,0 +1,53 @@
+.cameraWrapper {
+  --button-capture-size: 52px;
+  --button-capture-size-small: 48px;
+
+  position: relative;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.buttonCapture {
+  position: absolute;
+  left: 50%;
+  bottom: 6px;
+
+  width: var(--button-capture-size);
+  height: var(--button-capture-size);
+  border: 2px solid #000;
+  border-radius: 50%;
+
+  background-color: #fff;
+  outline: none;
+
+  transform: translateX(-50%);
+  transition: .3s;
+}
+
+.buttonCapture:hover {
+  background-color: #c4c4c4;
+}
+
+.cameraCanvas {
+  display: none;
+  width: 100%;
+}
+
+.cameraCanvas.inited {
+  display: block;
+}
+
+.cameraLabel {
+  color: #fff;
+}
+
+@media all and (max-width: 800px) {
+  .buttonCapture {
+    width: var(--button-capture-size-small);
+    height: var(--button-capture-size-small);
+  }
+}
