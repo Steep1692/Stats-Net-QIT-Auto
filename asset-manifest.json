@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Stats-Net-QIT-Auto/static/css/main.ca9cce08.chunk.css",
-    "main.js": "/Stats-Net-QIT-Auto/static/js/main.5f025db8.chunk.js",
-    "main.js.map": "/Stats-Net-QIT-Auto/static/js/main.5f025db8.chunk.js.map",
+    "main.css": "/Stats-Net-QIT-Auto/static/css/main.fcf22634.chunk.css",
+    "main.js": "/Stats-Net-QIT-Auto/static/js/main.cc0e30f0.chunk.js",
+    "main.js.map": "/Stats-Net-QIT-Auto/static/js/main.cc0e30f0.chunk.js.map",
     "runtime-main.js": "/Stats-Net-QIT-Auto/static/js/runtime-main.beeb6b90.js",
     "runtime-main.js.map": "/Stats-Net-QIT-Auto/static/js/runtime-main.beeb6b90.js.map",
-    "static/js/2.7849eb23.chunk.js": "/Stats-Net-QIT-Auto/static/js/2.7849eb23.chunk.js",
-    "static/js/2.7849eb23.chunk.js.map": "/Stats-Net-QIT-Auto/static/js/2.7849eb23.chunk.js.map",
+    "static/js/2.0f43c282.chunk.js": "/Stats-Net-QIT-Auto/static/js/2.0f43c282.chunk.js",
+    "static/js/2.0f43c282.chunk.js.map": "/Stats-Net-QIT-Auto/static/js/2.0f43c282.chunk.js.map",
     "index.html": "/Stats-Net-QIT-Auto/index.html",
-    "precache-manifest.cbc90ceb44d8cc47ae43503d1fd6fdb4.js": "/Stats-Net-QIT-Auto/precache-manifest.cbc90ceb44d8cc47ae43503d1fd6fdb4.js",
+    "precache-manifest.df9b37522d94e5006687d9a29a1cac16.js": "/Stats-Net-QIT-Auto/precache-manifest.df9b37522d94e5006687d9a29a1cac16.js",
     "service-worker.js": "/Stats-Net-QIT-Auto/service-worker.js",
-    "static/css/main.ca9cce08.chunk.css.map": "/Stats-Net-QIT-Auto/static/css/main.ca9cce08.chunk.css.map",
-    "static/js/2.7849eb23.chunk.js.LICENSE.txt": "/Stats-Net-QIT-Auto/static/js/2.7849eb23.chunk.js.LICENSE.txt",
-    "static/js/main.5f025db8.chunk.js.LICENSE.txt": "/Stats-Net-QIT-Auto/static/js/main.5f025db8.chunk.js.LICENSE.txt",
+    "static/css/main.fcf22634.chunk.css.map": "/Stats-Net-QIT-Auto/static/css/main.fcf22634.chunk.css.map",
+    "static/js/2.0f43c282.chunk.js.LICENSE.txt": "/Stats-Net-QIT-Auto/static/js/2.0f43c282.chunk.js.LICENSE.txt",
+    "static/js/main.cc0e30f0.chunk.js.LICENSE.txt": "/Stats-Net-QIT-Auto/static/js/main.cc0e30f0.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Stats-Net-QIT-Auto/static/media/visa.099a95eb.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.beeb6b90.js",
-    "static/js/2.7849eb23.chunk.js",
-    "static/css/main.ca9cce08.chunk.css",
-    "static/js/main.5f025db8.chunk.js"
+    "static/js/2.0f43c282.chunk.js",
+    "static/css/main.fcf22634.chunk.css",
+    "static/js/main.cc0e30f0.chunk.js"
   ]
 }
