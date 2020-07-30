@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/Stats-Net-QIT-Auto/static/css/main.fcf22634.chunk.css",
-    "main.js": "/Stats-Net-QIT-Auto/static/js/main.2e09422c.chunk.js",
-    "main.js.map": "/Stats-Net-QIT-Auto/static/js/main.2e09422c.chunk.js.map",
+    "main.js": "/Stats-Net-QIT-Auto/static/js/main.e7afbd53.chunk.js",
+    "main.js.map": "/Stats-Net-QIT-Auto/static/js/main.e7afbd53.chunk.js.map",
     "runtime-main.js": "/Stats-Net-QIT-Auto/static/js/runtime-main.beeb6b90.js",
     "runtime-main.js.map": "/Stats-Net-QIT-Auto/static/js/runtime-main.beeb6b90.js.map",
     "static/js/2.0f43c282.chunk.js": "/Stats-Net-QIT-Auto/static/js/2.0f43c282.chunk.js",
     "static/js/2.0f43c282.chunk.js.map": "/Stats-Net-QIT-Auto/static/js/2.0f43c282.chunk.js.map",
     "index.html": "/Stats-Net-QIT-Auto/index.html",
-    "precache-manifest.d0818076f7b429f6dab97982bef03a1f.js": "/Stats-Net-QIT-Auto/precache-manifest.d0818076f7b429f6dab97982bef03a1f.js",
+    "precache-manifest.61c676da93fa1eb26f138b1ce691e500.js": "/Stats-Net-QIT-Auto/precache-manifest.61c676da93fa1eb26f138b1ce691e500.js",
     "service-worker.js": "/Stats-Net-QIT-Auto/service-worker.js",
     "static/css/main.fcf22634.chunk.css.map": "/Stats-Net-QIT-Auto/static/css/main.fcf22634.chunk.css.map",
     "static/js/2.0f43c282.chunk.js.LICENSE.txt": "/Stats-Net-QIT-Auto/static/js/2.0f43c282.chunk.js.LICENSE.txt",
-    "static/js/main.2e09422c.chunk.js.LICENSE.txt": "/Stats-Net-QIT-Auto/static/js/main.2e09422c.chunk.js.LICENSE.txt",
+    "static/js/main.e7afbd53.chunk.js.LICENSE.txt": "/Stats-Net-QIT-Auto/static/js/main.e7afbd53.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Stats-Net-QIT-Auto/static/media/visa.099a95eb.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.beeb6b90.js",
     "static/js/2.0f43c282.chunk.js",
     "static/css/main.fcf22634.chunk.css",
-    "static/js/main.2e09422c.chunk.js"
+    "static/js/main.e7afbd53.chunk.js"
   ]
 }

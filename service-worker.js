@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Stats-Net-QIT-Auto/precache-manifest.d0818076f7b429f6dab97982bef03a1f.js"
+  "/Stats-Net-QIT-Auto/precache-manifest.61c676da93fa1eb26f138b1ce691e500.js"
 );
 
 self.addEventListener('message', (event) => {

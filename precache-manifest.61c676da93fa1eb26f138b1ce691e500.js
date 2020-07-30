@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05317bbe389b27f9119a7c562cbe7cf1",
+    "revision": "e68010de918ffc8e521e123be5f9fb04",
     "url": "/Stats-Net-QIT-Auto/index.html"
   },
   {
-    "revision": "7abf3708d51afe0811c9",
+    "revision": "83d7d603f669c7e9365a",
     "url": "/Stats-Net-QIT-Auto/static/css/main.fcf22634.chunk.css"
   },
   {
@@ -16,12 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Stats-Net-QIT-Auto/static/js/2.0f43c282.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7abf3708d51afe0811c9",
-    "url": "/Stats-Net-QIT-Auto/static/js/main.2e09422c.chunk.js"
+    "revision": "83d7d603f669c7e9365a",
+    "url": "/Stats-Net-QIT-Auto/static/js/main.e7afbd53.chunk.js"
   },
   {
     "revision": "0bcf5ee07f89b8ea905922c617a4ced2",
-    "url": "/Stats-Net-QIT-Auto/static/js/main.2e09422c.chunk.js.LICENSE.txt"
+    "url": "/Stats-Net-QIT-Auto/static/js/main.e7afbd53.chunk.js.LICENSE.txt"
   },
   {
     "revision": "5f874229a2ff5b448c91",
